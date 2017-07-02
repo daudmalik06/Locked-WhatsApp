@@ -38,7 +38,7 @@ so if you want to contribute you can make binaries of other platforms or
 any other bug fix or improvement will be highly appreciated 
 
 #### License ####
-The <b>Locked Whatsapp</b>is open-sourced software licensed under the <a href="https://opensource.org/licenses/MIT">MIT license</a>.
+The <b>Locked Whatsapp</b> is open-sourced software licensed under the <a href="https://opensource.org/licenses/MIT">MIT license</a>.
 
 # Issue #
 
