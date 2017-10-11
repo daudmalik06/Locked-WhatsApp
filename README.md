@@ -7,7 +7,7 @@ so i decided to make this little app
 <br>
 
 # Introduction #
-<b>Locked Whatsapp</b>is simply wrapper around https://web.whatsapp.com
+<b>Locked Whatsapp</b> is simply wrapper around https://web.whatsapp.com
 but supports password protection.
 To access your web whatsapp account you will have to setup password.
 
