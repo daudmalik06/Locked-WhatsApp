@@ -26,12 +26,26 @@ I have already received good response from community
 the binary download links are available here
 https://sourceforge.net/projects/locked-whatsapp/
 
+# Local Setup #
+* Clone the repo (or create a fork and clone the forked repo)
+```
+git clone https://github.com/daudmalik06/Locked-WhatsApp.git
+```
+* Install NPM dependencies:
+```
+npm install
+```
+* Start the app
+```
+npm start
+```
+
 # Contribution #
 Thanks for thinking about contribution.
 
 In fact because of people like you open source community is live. 
 
-I am using electron js to make this wrapper and until now i have made 
+I am using [electron](https://electron.atom.io/) js to make this wrapper and until now i have made 
 binaries only for windows as you know we can make 
 cross platform apps with electron.
 so if you want to contribute you can make binaries of other platforms or
