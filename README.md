@@ -8,7 +8,7 @@ I decided to make this little app
 
 # Introduction #
 <b>Locked Whatsapp</b> is simply a wrapper around https://web.whatsapp.com
-but supports a password protection.
+but supports password protection.
 To access your web Whatsapp account you will have to setup a password.
 
  ##### Usage #####
@@ -17,7 +17,7 @@ password to unlock the app and after that it will be unlocked only
 using that password.
 
 <br>
-If you forget your password, you can click on reset and this will automatically log you out of whatsapp
+If you forget your password, you can click on reset and this will automatically log you out of Whatsapp
 and will ask you for a new password.
 
 # Download #
@@ -42,7 +42,7 @@ npm start
 # Contribution #
 Thank you for thinking about contributing.
 
-The open source community is live because of people like you . 
+The open source community is alive because of people like you . 
 
 I used [electron](https://electron.atom.io/) js to make this wrapper and so far I have made 
 binaries only for windows, however electron is capable of making cross platform apps, so if you want to contribute you can make binaries of other platforms or
