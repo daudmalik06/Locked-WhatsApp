@@ -16,7 +16,7 @@ When you open the app for the first time, it will ask you to create a password t
 Thereafter, the app will only be opened using the password you've created.
 
 <br>
-Should you forget your password, you can click on Reset, which will autonatically log you out from
+Should you forget your password, you can click on Reset, which will automatically log you out from
 whatsapp, and ask you to createa new password.
 
 # Download #
