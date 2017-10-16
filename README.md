@@ -1,29 +1,27 @@
 # History #
-Every time i get away from my computer , due to privacy concern
-i had to log out whatsapp from computer and again login when i reuse
-this was really annoying ,
+Every time I move away from my computer, due to privacy concerns
+I had to log out of whatsapp from my computer, and then had to login again when i want to reuse it.
+This was really annoying,
 <br>
 so i decided to make this little app
 <br>
 
 # Introduction #
-<b>Locked Whatsapp</b> is simply wrapper around https://web.whatsapp.com
+<b>Locked Whatsapp</b>, is simply a wrapper around https://web.whatsapp.com,
 but supports password protection.
-To access your web whatsapp account you will have to setup password.
+To access your web whatsapp account you will have to set a password.
 
  ##### Usage #####
-For the first time you open this app this will ask you 
-password to lock the app and after that it will be unlocked only
-using that password.
+When you open the app for the first time, it will ask you to create a password to lock the app. 
+Thereafter, the app will only be opened using the password you've created.
 
 <br>
-Incase you forget The password You can click on Reset 
-it will automatically log you out from whatsapp
-and again ask you a new password
+Should you forget your password, you can click on Reset, which will automatically log you out from
+whatsapp, and ask you to createa new password.
 
 # Download #
-I have already received good response from community
-the binary download links are available here
+I have already received good response from the community.
+The binary download links are available here
 https://sourceforge.net/projects/locked-whatsapp/
 
 # Local Setup #
@@ -41,22 +39,22 @@ npm start
 ```
 
 # Contribution #
-Thanks for thinking about contribution.
+Thanks for thinking about contributing.
 
-In fact because of people like you open source community is live. 
+In fact because of people like you, open source community is alive. 
 
 I am using [electron](https://electron.atom.io/) js to make this wrapper and until now i have made 
 binaries only for windows as you know we can make 
 cross platform apps with electron.
-so if you want to contribute you can make binaries of other platforms or
-any other bug fix or improvement will be highly appreciated 
+If you want to contribute, you can make binaries of other platforms or
+any other bug fix or improvement will be highly appreciated. 
 
 #### License ####
 The <b>Locked Whatsapp</b> is open-sourced software licensed under the <a href="https://opensource.org/licenses/MIT">MIT license</a>.
 
 # Issue #
 
-For any issue,bug,feedback you can open a ticket here on gihub or can send me an email
+For any issue, bug and/or feedback, you can open a ticket here on gihub or can send me an email.
 
 @daudmalik06@gmail.com
 
